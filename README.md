@@ -6,3 +6,5 @@
   `praktikum-d2.py`
 * Praktikum 3 : String
   `praktikum-d3.py`
+* Praktikum 4 : List
+  `praktikum-d4.py`
