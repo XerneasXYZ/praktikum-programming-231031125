@@ -8,3 +8,6 @@
   `praktikum-d3.py`
 * Praktikum 4 : List
   `praktikum-d4.py`
+* Praktikum 5 : Perulangan
+  `praktikum-d5.py`
+  
