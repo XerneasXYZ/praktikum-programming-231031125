@@ -20,3 +20,5 @@
   `adamsyahqwan-231031125-dictionaries.py`
 * Tugas 2 : Ganjil-Genap
   `231031125-adamsyahqwan-tugas1.py`
+* Tugas 3 : Jam
+  `231031125-adamsyahqwan-tugas2.py`
