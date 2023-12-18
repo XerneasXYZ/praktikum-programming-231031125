@@ -16,3 +16,5 @@
   `praktikum-d7.py`
 * Praktikum 8 : Membuat Password Berlapis
   `praktikum-d8.py`
+* Tugas 1 : Dictionaries
+  `adamsyahqwan-231031125-dictionaries.py`
