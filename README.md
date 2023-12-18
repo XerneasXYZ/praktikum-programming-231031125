@@ -12,4 +12,5 @@
   `praktikum-d5.py`
 * Praktikum 6 : Perulangan While True
   `praktikum-d6.py`
-  
+* Praktikum 7 : Membuat Password
+  `praktikum-d7.py`
