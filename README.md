@@ -22,3 +22,12 @@
   `231031125-adamsyahqwan-tugas1.py`
 * Tugas 3 : Jam
   `231031125-adamsyahqwan-tugas2.py`
+* percabangan 1 : Batasan Nilai
+  `231031125-adamsyahqwan-percabangan1.py`
+* percabangan 2 : Panjang STR
+  `231031125-adamsyahqwan-percabangan2.py`
+* percabangan 3 : Batasan Pendapatan
+  `231031125-adamsyahqwan-percabangan3.py`
+* percabangan 4 : Persentasi
+  `231031125-adamsyahqwan-percabangan4.py`
+
