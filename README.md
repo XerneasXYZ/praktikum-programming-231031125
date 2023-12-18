@@ -10,6 +10,6 @@
   `praktikum-d4.py`
 * Praktikum 5 : Perulangan
   `praktikum-d5.py`
-  * Praktikum 6 : Perulangan While True
+* Praktikum 6 : Perulangan While True
   `praktikum-d6.py`
   
