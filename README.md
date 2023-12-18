@@ -14,3 +14,5 @@
   `praktikum-d6.py`
 * Praktikum 7 : Membuat Password
   `praktikum-d7.py`
+* Praktikum 8 : Membuat Password Berlapis
+  `praktikum-d8.py`
