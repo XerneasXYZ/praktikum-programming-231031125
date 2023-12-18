@@ -30,4 +30,6 @@
   `231031125-adamsyahqwan-percabangan3.py`
 * percabangan 4 : Persentasi
   `231031125-adamsyahqwan-percabangan4.py`
+* Prejoct 1 : Penginputan Data Mahasiswa
+  `project-kelompok-5.py`
 
